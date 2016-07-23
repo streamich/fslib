@@ -1,0 +1,10 @@
+{
+  "name": "fslib",
+  "version": "1.0.0",
+  "description": "fs.js in pure JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "libjs": "*",
+    "libaio": "*"
+  }
+}
